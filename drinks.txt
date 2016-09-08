@@ -1,0 +1,10 @@
+coke
+water
+pepsi
+gin
+coffee
+milk
+ginger ale
+beer
+tea
+sprite
